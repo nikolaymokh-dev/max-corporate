@@ -1,0 +1,7 @@
+.DS_Store
+.orca-memory/
+node_modules/
+.env*
+!.env.example
+*.sqlite
+*.db
